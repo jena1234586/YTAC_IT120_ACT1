@@ -2,3 +2,7 @@ Elementary School : Comagascas Elementary School
 Year Graduated : 2015-2016
 Highschool School : Cabadbaran City National High School
 Year Graduated : 2019-2020
+
+College : Caraga State University - Cabadbaran Campus
+Program : Bachelor of Science in Information Security
+Year Level : 3rd Year
