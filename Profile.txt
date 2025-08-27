@@ -5,3 +5,10 @@ Gender : Female
 Age : 21
 Birthday : November 29, 2003
 Contacts : 09304559654
+
+Birth of Place : Purok-3 Comagascas Cabadaran City, ADN
+Religion : IFI
+Father's Name : Joel S. Ytac
+Occupation : Deceased 
+Mother's Name: Gina P. Ytac
+Occupation : Housewife
