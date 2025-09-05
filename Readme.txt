@@ -219,3 +219,38 @@ $ git branch
   Ytac_B3
 * Ytac_B4
   master
+
+User@DESKTOP-9A9V2MJ MINGW64 ~/desktop/Ytac_IT120_Act1 (Ytac_B4)
+$ git add Readme.txt
+
+User@DESKTOP-9A9V2MJ MINGW64 ~/desktop/Ytac_IT120_Act1 (Ytac_B4)
+$ git rm Test.py
+rm 'Test.py'
+
+User@DESKTOP-9A9V2MJ MINGW64 ~/desktop/Ytac_IT120_Act1 (Ytac_B4)
+$ git commit -m "Updated Git Command and removed Test.py"
+[Ytac_B4 8f65b39] Updated Git Command and removed Test.py
+ 2 files changed, 208 insertions(+), 4 deletions(-)
+ delete mode 100644 Test.py
+
+User@DESKTOP-9A9V2MJ MINGW64 ~/desktop/Ytac_IT120_Act1 (Ytac_B4)
+$ git push origin Ytac_B4
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.62 KiB | 1.62 MiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'Ytac_B4' on GitHub by visiting:
+remote:      https://github.com/jena1234586/YTAC_IT120_ACT1/pull/new/Ytac_B4
+remote:
+To https://github.com/jena1234586/YTAC_IT120_ACT1.git
+ * [new branch]      Ytac_B4 -> Ytac_B4
+
+User@DESKTOP-9A9V2MJ MINGW64 ~/desktop/Ytac_IT120_Act1 (Ytac_B4)
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
