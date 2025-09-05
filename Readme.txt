@@ -202,20 +202,3 @@ remote:      https://github.com/jena1234586/YTAC_IT120_ACT1/pull/new/Ytac_B3
 remote:
 To https://github.com/jena1234586/YTAC_IT120_ACT1.git
  * [new branch]      Ytac_B3 -> Ytac_B3
-
-User@DESKTOP-9A9V2MJ MINGW64 ~/desktop/Ytac_IT120_Act1 (Ytac_B3)
-$ git checkout master
-Switched to branch 'master'
-Your branch is up to date with 'origin/master'.
-
-User@DESKTOP-9A9V2MJ MINGW64 ~/desktop/Ytac_IT120_Act1 (master)
-$ git checkout -b Ytac_B4
-Switched to a new branch 'Ytac_B4'
-
-User@DESKTOP-9A9V2MJ MINGW64 ~/desktop/Ytac_IT120_Act1 (Ytac_B4)
-$ git branch
-  Ytac_B1
-  Ytac_B2
-  Ytac_B3
-* Ytac_B4
-  master
