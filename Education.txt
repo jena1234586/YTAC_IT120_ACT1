@@ -4,5 +4,5 @@ Highschool School : Cabadbaran City National High School
 Year Graduated : 2019-2020
 
 College : Caraga State University - Cabadbaran Campus
-Program : Bachelor of Science in Information Security
+Program : Bachelor of Science in Information Technology
 Year Level : 3rd Year
